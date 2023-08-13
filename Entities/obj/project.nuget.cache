@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "8mves2ptGSvk9L4JGd+jugHIAn+fivTge99Si8rlrNDJLgJiDXLttfCaedC6fOl8hbcFzRCfW02Up08dpM5JMg==",
+  "success": false,
+  "projectFilePath": "D:\\1Resources\\PaySlip\\webApp2\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Soleymani\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.9\\microsoft.aspnetcore.cryptography.internal.7.0.9.nupkg.sha512",
+    "C:\\Users\\Soleymani\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.9\\microsoft.aspnetcore.cryptography.keyderivation.7.0.9.nupkg.sha512",
+    "C:\\Users\\Soleymani\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Soleymani\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Soleymani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Soleymani\\.nuget\\packages\\microsoft.extensions.identity.core\\7.0.9\\microsoft.extensions.identity.core.7.0.9.nupkg.sha512",
+    "C:\\Users\\Soleymani\\.nuget\\packages\\microsoft.extensions.identity.stores\\7.0.9\\microsoft.extensions.identity.stores.7.0.9.nupkg.sha512",
+    "C:\\Users\\Soleymani\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Soleymani\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Soleymani\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Soleymani\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\1Resources\\PaySlip\\webApp2\\Common\\Common.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\1Resources\\PaySlip\\webApp2\\Common\\Common.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
